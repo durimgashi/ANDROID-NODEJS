@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textWhite">#ffffff</color>
+    <color name="titleBarDark">#243447</color>
+    <color name="backgroundDark">#141d26</color>
+    <color name="highlight">#c51f5d</color>
+    <color name="hintETColor">#4DFFFFFF</color>
+    <color name="twitterBlue">#00ACEE</color>
+</resources>
