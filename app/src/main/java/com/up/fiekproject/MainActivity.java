@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         city = findViewById(R.id.city);
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("http://192.168.0.48:3000/")
+                .baseUrl(IPja.IP)
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
         apiService = retrofit.create(ApiService.class);
